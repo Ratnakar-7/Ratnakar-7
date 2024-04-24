@@ -5,9 +5,9 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning, Web Development ( MERN /Next.js) projects**
 
-- 💬 Ask me about **Machine Learning, Web development, GATE Preparation**
+- 💬 We can discuss about **Machine Learning, Web Development, GATE Preparation**
 
-- 📫 How to reach me **ratnakar.mishra712@gmail.com** or ping me on LinkedIn
+- 📫 Feel free to reach out to me via email at **ratnakar.mishra712@gmail.com** or connect with me on **LinkedIn**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
