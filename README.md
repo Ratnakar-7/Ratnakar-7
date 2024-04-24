@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Ratnakar Mishra</h1>
-<h3 align="center">Software Developer | Machine Learning Enthusiast | AIR-179 in GATE Data Science & Artificial Intelligence 2024</h3>
+<h3 align="center">Software Developer | Machine Learning Enthusiast | AIR-179 in GATE Data Science & Artificial Intelligence</h3>
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
