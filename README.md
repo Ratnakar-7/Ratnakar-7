@@ -1,8 +1,10 @@
 <h1 align="center">Hey 👋, I'm Ratnakar Mishra</h1>
 <h3 align="center">Software Developer | Machine Learning Enthusiast | AIR-179 in GATE Data Science & Artificial Intelligence</h3>
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
-
+- 🌱 I’m currently pursuing my master's from IIT Delhi
+  
+- 🚗 I am currently working on a project focused on Implementing Autonomous Car Driving using Autoware and Velodyne LiDAR
+  
 - 👯 I’m looking to collaborate on **Machine Learning, Web Development ( MERN /Next.js) projects**
 
 - 💬 We can discuss about **Machine Learning, Web Development, GATE Preparation**
